@@ -15,9 +15,7 @@
 
 *A comprehensive, academically-rigorous bootcamp combining IIT Patna coursework with hands-on practical implementations*
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/complete-data-analyst-bootcamp?style=social)](https://github.com/yourusername/complete-data-analyst-bootcamp)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/complete-data-analyst-bootcamp/issues)
+
 
 </div>
 
