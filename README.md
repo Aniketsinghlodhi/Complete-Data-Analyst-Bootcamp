@@ -559,12 +559,6 @@ If you find this repository helpful, please consider giving it a ⭐! It helps o
 
 ---
 
-## 📊 Repository Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/complete-data-analyst-bootcamp)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/complete-data-analyst-bootcamp)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/complete-data-analyst-bootcamp)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/complete-data-analyst-bootcamp)
 
 ---
 
